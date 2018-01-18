@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BLE</string>
+    <string name="notifs">Notifications:</string>
+    <string name="data_sending">Sending data...</string>
+    <string name="data_received">Data received successfully.</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="transmit_data">Transmit Data</string>
+</resources>
